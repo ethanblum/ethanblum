@@ -1,0 +1,6 @@
+- Hi, I’m @ethanblum
+- 👀 I’m interested in learning. I really enjoy trying new things and solving problems.
+- 🌱 I’m currently learning JavaScript.
+- 💞️ I’m looking to collaborate on any projects that will teach me about my area of study.
+- 📫 How to reach me:
+    -Email: ethan.t.blum@gmail.com
